@@ -2,7 +2,7 @@
 
 Meu nome é Diogo Santos
 
--Estou estudando na {Alura}(https://cursos.alura.com.br/course/repositorio-digital-compartilhar-seus-projetos/task/145200), através do computador da minha escola
+-Estou estudando na {Alura}(https://cursos.alura.com.br/course/repositorio-digital-compartilhar-seus-projetos/task/145200) através do computador da minha escola
 -Estou no meu ultimo ano do Ensino médio
 -Estou me desenvolvendo na linguagem JavaScript
 
